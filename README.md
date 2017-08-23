@@ -1,4 +1,4 @@
-Tic-Tac-Toe React-Redux
+<h1>Tic-Tac-Toe React-Redux</h1>
 
 The Iron Yard Daily Project.
 
